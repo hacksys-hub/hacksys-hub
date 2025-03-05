@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm hacksys-</h1>
-<h3 align="center">penetration tester and making secure envirement , bug tester</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=1000&lines=%F0%9F%92%80+Elite+Hacker+Profile+%F0%9F%92%80;Bug+Bounty+Hunter+|+Pentester+|+Malware+Analyst" alt="Typing SVG" />
+</h1>
 
 <img align="center" alt="hacking" width="200" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
@@ -17,6 +18,10 @@
 
 
 <img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ1NzY2NzMsIm5iZiI6MTcyNDU3NjM3MywicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI1VDA4NTkzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMxMzBkY2JkYTYyYTFkN2IyNGYzOWUxZWVhODc1ZWQ2MzkxZjEyOTc4ZDczMWEwOWYyZDM2MDdiZTU0NGQ1ODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n-kVAbwoojFvAhiHl9X5P4eoS_qazh4sDGC5Q9t0CW8">
+
+
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hacksys-hub&theme=tokyonight&hide_border=true&border_radius=10" /><br><img src="https://github-readme-stats.vercel.app/api?username=hacksys-hub&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" /><br><img src="https://github-profile-trophy.vercel.app/?username=hacksys-hub&theme=darkhub&no-frame=true&column=7" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacksys-hub&layout=compact&theme=radical&hide_border=true&border_radius=10&langs_count=8" /><br><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hacksys-hub&theme=react-dark&hide_border=true&radius=10" /></p>
 
 
 
